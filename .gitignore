@@ -1,0 +1,4 @@
+bridge/out/
+*.ks
+*.jks
+.DS_Store
